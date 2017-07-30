@@ -1,0 +1,6 @@
+c:\users\carlos guerra\documents\visual studio 2017\Projects\MICP_Assignments\MICP_Assignments\bin\Debug\MICP_Assignments.exe.config
+c:\users\carlos guerra\documents\visual studio 2017\Projects\MICP_Assignments\MICP_Assignments\bin\Debug\MICP_Assignments.exe
+c:\users\carlos guerra\documents\visual studio 2017\Projects\MICP_Assignments\MICP_Assignments\bin\Debug\MICP_Assignments.pdb
+c:\users\carlos guerra\documents\visual studio 2017\Projects\MICP_Assignments\MICP_Assignments\obj\Debug\MICP_Assignments.csprojResolveAssemblyReference.cache
+c:\users\carlos guerra\documents\visual studio 2017\Projects\MICP_Assignments\MICP_Assignments\obj\Debug\MICP_Assignments.exe
+c:\users\carlos guerra\documents\visual studio 2017\Projects\MICP_Assignments\MICP_Assignments\obj\Debug\MICP_Assignments.pdb
