@@ -22,6 +22,7 @@ namespace MICP_Assignments
             //organizes the user input
             Array.Sort(userInput);
 
+            //O(n^3) Complexity, this REALLY does need to be improved
             for(int firstIndex = 0; firstIndex < userInput.Length - 3; firstIndex++)
             {
                for(int secondIndex = firstIndex + 1; secondIndex < userInput.Length - 2; secondIndex++)
@@ -34,7 +35,8 @@ namespace MICP_Assignments
                             temp[0] = userInput[firstIndex];
                             temp[1] = userInput[secondIndex];
                             temp[2] = userInput[thirdIndex];
-                            results.Add(temp);
+                            if(!results.Contains(temp))
+                                results.Add(new int[] { userInput[firstIndex], userInput[secondIndex], userInput[thirdIndex]});
                         }
                     }
                 }
