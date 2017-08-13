@@ -43,6 +43,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assignment_Week_2.cs" />
+    <Compile Include="Assignment_Week_3.cs" />
+    <Compile Include="Assignment_Week_4.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

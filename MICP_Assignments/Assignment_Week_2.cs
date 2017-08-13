@@ -6,7 +6,7 @@ namespace MICP_Assignments
 {
     public class Assignment_Week_2
     {
-        public static string LongestSubstring(String userInput)
+        public static int LongestSubstring(String userInput)
         {
             if (String.IsNullOrEmpty(userInput))
             {
@@ -18,14 +18,11 @@ namespace MICP_Assignments
 
             foreach(char c in userInput)
             {
-                //checks to see if the character is contained in the substring
-                bool isContained = longestSubstringSoFar.ToString().Contains(c);
-
-                if (!isContained)
+                if (!longestSubstringSoFar.ToString().Contains(c))
                 {
                     longestSubstringSoFar.Append(c);
                 }
-                else if (isContained)
+                else
                 {
                     int indexOfChar = longestSubstringSoFar.ToString().IndexOf(c);
                     StringBuilder temp = new StringBuilder();
@@ -43,7 +40,7 @@ namespace MICP_Assignments
                     longestString = longestSubstringSoFar.ToString();
                 }
             }
-            return longestString;
+            return longestString.Length;
         }
     }
 }
