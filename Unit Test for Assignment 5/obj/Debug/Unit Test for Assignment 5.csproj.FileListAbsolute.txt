@@ -1,0 +1,16 @@
+C:\Users\Carlos Guerra\documents\visual studio 2017\Projects\MICP_Assignments\Unit Test for Assignment 5\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Carlos Guerra\documents\visual studio 2017\Projects\MICP_Assignments\Unit Test for Assignment 5\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Carlos Guerra\documents\visual studio 2017\Projects\MICP_Assignments\Unit Test for Assignment 5\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Carlos Guerra\documents\visual studio 2017\Projects\MICP_Assignments\Unit Test for Assignment 5\bin\Debug\Unit Test for Assignment 5.dll
+C:\Users\Carlos Guerra\documents\visual studio 2017\Projects\MICP_Assignments\Unit Test for Assignment 5\bin\Debug\Unit Test for Assignment 5.pdb
+C:\Users\Carlos Guerra\documents\visual studio 2017\Projects\MICP_Assignments\Unit Test for Assignment 5\bin\Debug\MICP_Assignments.exe
+C:\Users\Carlos Guerra\documents\visual studio 2017\Projects\MICP_Assignments\Unit Test for Assignment 5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Carlos Guerra\documents\visual studio 2017\Projects\MICP_Assignments\Unit Test for Assignment 5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Carlos Guerra\documents\visual studio 2017\Projects\MICP_Assignments\Unit Test for Assignment 5\bin\Debug\MICP_Assignments.pdb
+C:\Users\Carlos Guerra\documents\visual studio 2017\Projects\MICP_Assignments\Unit Test for Assignment 5\bin\Debug\MICP_Assignments.exe.config
+C:\Users\Carlos Guerra\documents\visual studio 2017\Projects\MICP_Assignments\Unit Test for Assignment 5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Carlos Guerra\documents\visual studio 2017\Projects\MICP_Assignments\Unit Test for Assignment 5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Carlos Guerra\documents\visual studio 2017\Projects\MICP_Assignments\Unit Test for Assignment 5\obj\Debug\Unit Test for Assignment 5.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Guerra\documents\visual studio 2017\Projects\MICP_Assignments\Unit Test for Assignment 5\obj\Debug\Unit Test for Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Guerra\documents\visual studio 2017\Projects\MICP_Assignments\Unit Test for Assignment 5\obj\Debug\Unit Test for Assignment 5.dll
+C:\Users\Carlos Guerra\documents\visual studio 2017\Projects\MICP_Assignments\Unit Test for Assignment 5\obj\Debug\Unit Test for Assignment 5.pdb
